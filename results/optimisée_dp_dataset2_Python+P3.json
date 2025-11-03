@@ -1,0 +1,31 @@
+{
+    "dataset": "data\\dataset2_Python+P3.csv",
+    "method": "Optimisée (DP)",
+    "cout_total": 499920,
+    "profit_total": 197964.66400000002,
+    "temps_execution": 48.114488000001074,
+    "memoire_utilisee_Mo": 18.385584,
+    "pic_memoire_Mo": 49.399022,
+    "actions_selectionnees": [
+        "Share-LXZU",
+        "Share-SCWM",
+        "Share-XQII",
+        "Share-LFXB",
+        "Share-ROOM",
+        "Share-FWBE",
+        "Share-PLLK",
+        "Share-YFVZ",
+        "Share-ZOFA",
+        "Share-IXCI",
+        "Share-VCAX",
+        "Share-PATS",
+        "Share-ALIY",
+        "Share-DWSK",
+        "Share-ECAQ",
+        "Share-FAPS",
+        "Share-NDKR",
+        "Share-JGTW",
+        "Share-ANFX",
+        "Share-JWGF"
+    ]
+}

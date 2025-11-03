@@ -1,0 +1,21 @@
+{
+    "dataset": "data\\data_test.csv",
+    "method": "Force Brute",
+    "cout_total": 498000,
+    "profit_total": 99080.0,
+    "temps_execution": 5.135842600000615,
+    "memoire_utilisee_Mo": 0.00532,
+    "pic_memoire_Mo": 0.005784,
+    "actions_selectionnees": [
+        "Action-4",
+        "Action-5",
+        "Action-6",
+        "Action-8",
+        "Action-10",
+        "Action-11",
+        "Action-13",
+        "Action-18",
+        "Action-19",
+        "Action-20"
+    ]
+}
